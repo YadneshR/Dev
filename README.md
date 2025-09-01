@@ -1,4 +1,4 @@
+Hello everyone here I am practicing my Shell scripts
 
-# Dev
- Shell
+I will keep updating the status everyday
 
