@@ -74,6 +74,5 @@ Feedback, suggestions for improvements, or new script ideas are always welcome!
 **Author:** [YadneshR](https://github.com/YadneshR)
 💡 *Automate smart. Work efficient.*
 
-```
 
 
